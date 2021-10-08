@@ -1,7 +1,7 @@
 # Profile
 **I'm a Android Devloper, TaeWonBae😄**
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:olegunnarsolskjaer1283@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/olegunnarsolskjaer1283@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:olegunnarsolskjaer1283@gmail.com)
 
 
  <img src="https://img.shields.io/badge/olegunnarsolskjaer1283@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>(mailto:olegunnarsolskjaer1283@gmail.com)
