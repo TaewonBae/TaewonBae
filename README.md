@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:olegunnarsolskjaer1283@gmail.com)
 
 
- <img src="https://img.shields.io/badge/olegunnarsolskjaer1283@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/olegunnarsolskjaer1283@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>(mailto:olegunnarsolskjaer1283@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tae1ne/?hl=ko)
 <br>
