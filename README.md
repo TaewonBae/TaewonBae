@@ -1,5 +1,5 @@
 # Profile
-**I'm a Android Devloper from South Korea, TaewonBae😘**
+**👋 I'm a Android Devloper from South Korea, TaewonBae😘**
 
 [![Gmail Badge](https://img.shields.io/badge/olegunnarsolskjaer1283@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:olegunnarsolskjaer1283@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/tae1ne-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tae1ne/?hl=ko)
@@ -18,9 +18,10 @@
 * ❤ I value relationships.
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
+
+
 
 ### My Favorite
 
@@ -38,7 +39,7 @@
 
 **💪Tech Stack💪**
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 <br>
@@ -63,4 +64,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaewonBae&layout=compact" height="165">
 -->
