@@ -20,7 +20,7 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=TaewonBae" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
 
 ### My Favorite
 
