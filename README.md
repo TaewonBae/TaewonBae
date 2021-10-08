@@ -5,7 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/tae1ne-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tae1ne/?hl=ko)
 <br>
 <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">  
+<!--
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
+-->
 ### Who Am I
 
 
