@@ -29,7 +29,7 @@
 
 * ✈ Trip
 
-* 🍔 Hamburger
+* 💪🏻 Fitness
 
 <br>
 <br>
