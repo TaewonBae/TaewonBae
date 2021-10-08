@@ -1,5 +1,5 @@
 # Profile
-**I'm a Android Devloper, TaeWonBae😄**
+**I'm a Android Devloper, TaewonBae�😘**
 
 [![Gmail Badge](https://img.shields.io/badge/olegunnarsolskjaer1283@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:olegunnarsolskjaer1283@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/tae1ne-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tae1ne/?hl=ko)
@@ -18,6 +18,7 @@
 * ❤ I value relationships.
 <br>
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=TaewonBae" height="165">
 
