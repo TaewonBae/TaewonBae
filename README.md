@@ -16,8 +16,6 @@
 * 🌱 I’m currently learning Java & Kotlin
 
 * ❤ I value relationships.
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
 
 <br>
