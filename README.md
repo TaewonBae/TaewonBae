@@ -1,17 +1,17 @@
 # Profile
-**I'm a web-devloper, hanbinchoi😄**
+**I'm a Android Devloper, TaeWonBae😄**
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gksqls020@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hanbinchoi_/?hl=ko)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:olegunnarsolskjaer1283@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tae1ne/?hl=ko)
 <br>
 <br>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksqls020">  
 ### Who Am I
 
 
-* ✏ I'm a software major student at Gachon University.
+* 🔭 I'm a software major student at Gachon University.
 
-* 🌱 I'm currently interested in the front-end.
+* 🌱 I’m currently learning Java & Kotlin
 
 * ❤ I value relationships.
 <br>
@@ -49,20 +49,7 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
  
-<!--
-**hanbinchoi/hanbinchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 **TaewonBae/TaewonBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
