@@ -9,7 +9,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
 -->
 ### Who Am I
-
+1
 
 * 🔭 I'm a software major student at Gachon University.
 
