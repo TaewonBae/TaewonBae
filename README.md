@@ -10,7 +10,7 @@
 -->
 ### Who Am I
 
-1111
+111
 * 🔭 I'm a software major student at Gachon University.
 
 * 🌱 I’m currently learning Java & Kotlin
