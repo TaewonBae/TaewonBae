@@ -49,7 +49,7 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=black" />
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=white" />
  
 
 <!--
