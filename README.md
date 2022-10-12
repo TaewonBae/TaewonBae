@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/tae1ne-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tae1ne/?hl=ko)
 <br>
 <br>
-### Project
+## Project
 ### Netflix (https://github.com/TaewonBae/Netflix)
 
 <!--
