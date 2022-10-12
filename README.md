@@ -21,9 +21,9 @@
 
 <br>
 <br>
-# Project
+## Project
 <br>
-## Netflix (https://github.com/TaewonBae/Netflix)
+### Netflix (https://github.com/TaewonBae/Netflix)
 
 
 ### My Favorite
