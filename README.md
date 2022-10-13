@@ -6,7 +6,7 @@
 <br>
 <br>
 ### Project
-#### [Netflix](http://zeldahagoshipda.com](https://github.com/TaewonBae/Netflix)
+#### [Netflix](https://github.com/TaewonBae/Netflix)
 
 <!--
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
