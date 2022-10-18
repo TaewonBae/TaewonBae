@@ -7,6 +7,8 @@
 <br>
 ### Project
 #### [Netflix : 넷플릭스 프로젝트](https://github.com/TaewonBae/Netflix)
+#### [Android UI/UX 연습](https://github.com/TaewonBae/Android-UI-UX-Study)
+
 
 <!--
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
