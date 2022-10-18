@@ -6,8 +6,9 @@
 <br>
 <br>
 ### Project
-#### [Netflix : 넷플릭스 프로젝트](https://github.com/TaewonBae/Netflix)
-#### [Android UI/UX 연습](https://github.com/TaewonBae/Android-UI-UX-Study)
+#### [Android UI/UX 연습/Android Studio](https://github.com/TaewonBae/Android-UI-UX-Study)(앱의 구성이나 디자인 패턴, 안드로이드UI/UX 이해를 돕기위한 연습 )
+#### [Netflix : 넷플릭스 프로젝트/Kotlin, DB Browser, Firebase](https://github.com/TaewonBae/Netflix)
+
 
 
 <!--
