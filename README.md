@@ -8,6 +8,7 @@
 ### Project
 #### [Android UI & UX/Android Studio/Kotlin](https://github.com/TaewonBae/Android-UI-UX-Study)(앱의 구성이나 디자인 패턴, 안드로이드UI/UX 이해를 돕기위한 연습 )
 #### [Netflix : 넷플릭스 프로젝트/Kotlin, DB Browser, Firebase](https://github.com/TaewonBae/Netflix)(Firebase, Database, YouTube API를 이용한 Netflix)
+#### [DARI : AR을 이용한 인테리어(3D 가구배치)/Android Studio(Java)/ARCore/Depth API/Firebase](https://github.com/KimKyuyeon/DARI)(2020.03.02~2021.06.01 졸업작품)
 
 
 
