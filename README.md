@@ -6,6 +6,7 @@
 <br>
 <br>
 ### Project
+#### [날마다자라는아이(Android) : 신체측정기능 및 아이들의 및 성장과정을 한눈에 볼 수 있는 프로그램/Android Studio(Java)/DataBase/OpenCV/](https://github.com/TaewonBae/Android-UI-UX-Study) - (주)날마다자라는아이 Android App Project
 #### [Android UI & UX/Android Studio/Kotlin](https://github.com/TaewonBae/Android-UI-UX-Study)(앱의 구성이나 디자인 패턴, 안드로이드UI/UX 이해를 돕기위한 연습 )
 #### [Netflix : 넷플릭스 프로젝트/Kotlin, DB Browser, Firebase](https://github.com/TaewonBae/Netflix)(Firebase, Database, YouTube API를 이용한 Netflix)
 #### [DARI : AR을 이용한 인테리어(3D 가구배치)/Android Studio(Java)/ARCore/Depth API/Firebase](https://github.com/KimKyuyeon/DARI)(2020.03.02~2021.06.01 졸업작품)
