@@ -14,9 +14,7 @@
 #### [HellSchedule : Android Studio(Java)/DataBase/YouTube API](https://github.com/hanbinchoi/HellSchedule)- 헬서들을 위한 어플 - 스케쥴 및 식단 관리, 운동 알람, 운동영상 제공(모바일 프로그래밍 수업)
 #### [Gachon University Item Reservation System App : Android Studio(Java)/FileZila/Cafe24/Json/Mysql](https://github.com/TaewonBae/GachonReservationSystem-TermProject) - Software Engineering term project (소프트웨어공학 수업)
 
-<!--
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
--->
+
 
 <br>
 
@@ -34,6 +32,8 @@
 
 * ❤ I value relationships.
 <img src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
 
 <br>
 <br>
