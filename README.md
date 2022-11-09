@@ -19,7 +19,7 @@
 <br>
 
 ### 프로그래머스(coding test)
-#### [Level1(Java)](https://github.com/TaewonBae/Programmers) - 프로그래머스 level1 코딩테스트
+#### [Level1(Java)](https://github.com/TaewonBae/Programmers) - 프로그래머스 Level1 코딩테스트 연습
 
 
 <br><br>
