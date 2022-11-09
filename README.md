@@ -33,7 +33,7 @@
 * ❤ I value relationships.
 <img src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne">
+
 
 <br>
 <br>
