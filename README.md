@@ -6,6 +6,7 @@
 <br>
 <br>
 ### Project
+#### [5Motion(iOS) : Xcode(swift)/Json/AVFoundation/QRCode](https://github.com/TaewonBae/) - 5Motion iOS App Project, 포토카드 QR인식 및 음원 
 #### [날마다자라는아이(Android) : Android Studio(Java)/DataBase/OpenCV/Detection](https://github.com/TaewonBae/Nlji) - (주)날마다자라는아이 Android App Project, 신체측정기능 및 아이들의 및 성장과정을 한눈에 볼 수 있는 프로그램 
 #### [날마다자라는아이(iOS) : Xcode(swift)/DataBase/OpenCV/Detection](https://github.com/TaewonBae/Android-UI-UX-Study) - (주)날마다자라는아이 iOS App Project
 #### [Android UI & UX : Android Studio/Kotlin](https://github.com/TaewonBae/Android-UI-UX-Study) - 앱의 구성이나 디자인 패턴, 안드로이드UI/UX 이해를 돕기위한 연습
