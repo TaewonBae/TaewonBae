@@ -32,7 +32,9 @@
 * 🌱 I’m currently learning Kotlin(Android) & Swift(iOS)
 
 * ❤ I value relationships.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165")](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
 
