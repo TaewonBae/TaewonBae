@@ -51,7 +51,6 @@
 * ✈ Trip
 
 * 💪🏻 Fitness
-
 <br>
 <br>
 
