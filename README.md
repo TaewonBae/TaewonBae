@@ -29,7 +29,7 @@
 
 * 🔭 I'm a software major student at Gachon University.
 
-* 🌱 I’m currently learning Java & Kotlin
+* 🌱 I’m currently learning Kotlin(Android) & Swift(iOS)
 
 * ❤ I value relationships.
 <img src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
