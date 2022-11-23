@@ -34,9 +34,8 @@
 * ❤ I value relationships.
 
 <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TaewonBae&show_icons=true&theme=radical" height="165">
 
 
 
