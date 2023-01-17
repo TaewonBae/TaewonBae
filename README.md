@@ -30,6 +30,7 @@
 ### COS PRO 1급 JAVA(coding test)
 #### [모의고사1(Java)](https://github.com/TaewonBae/CosProJava1stGrade1) - COS PRO 1급 JAVA 모의고사1
 #### [모의고사2(Java)](https://github.com/TaewonBae/CosProJava1stGrade2) - COS PRO 1급 JAVA 모의고사2
+#### [모의고사3(Java)](https://github.com/TaewonBae/CosProJava1stGrade3) - COS PRO 1급 JAVA 모의고사3
 
 <br><br>
 ### Who Am I
