@@ -19,8 +19,7 @@
 
 <br>
 ### 백준(coding test)
-#### [백준(Python)](https://github.com/TaewonBae/BAEKJOON-CodingTest/tree/main/%EB%B0%B1%EC%A4%80/Bronze
-) - 백준 코딩테스트
+#### [백준(Python)](https://github.com/TaewonBae/BAEKJOON-CodingTest/tree/main/%EB%B0%B1%EC%A4%80/Bronze) - 백준 코딩테스트
 
 <br>
 
