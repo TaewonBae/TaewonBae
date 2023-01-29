@@ -44,6 +44,7 @@
 
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne)](https://solved.ac/tae1ne/)
 
 
 
