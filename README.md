@@ -21,22 +21,6 @@
 
 <br><br>
 
-### 백준(coding test)
-#### [백준(Python)](https://github.com/TaewonBae/BAEKJOON-CodingTest/tree/main/%EB%B0%B1%EC%A4%80/Bronze) - 백준 코딩테스트
-
-
-<br>
-
-### 프로그래머스(coding test)
-#### [Level1(Python & Java)](https://github.com/TaewonBae/BAEKJOON-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1) - 프로그래머스 Level1 코딩테스트 
-
-<br><br>
-
-### COS PRO 1급 JAVA(coding test)
-#### [모의고사1(Java)](https://github.com/TaewonBae/CosProJava1stGrade1) - COS PRO 1급 JAVA 모의고사1
-#### [모의고사2(Java)](https://github.com/TaewonBae/CosProJava1stGrade2) - COS PRO 1급 JAVA 모의고사2
-#### [모의고사3(Java)](https://github.com/TaewonBae/CosProJava1stGrade3) - COS PRO 1급 JAVA 모의고사3
-
 <br><br>
 ### Who Am I
 
@@ -49,7 +33,6 @@
 
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaewonBae&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne)](https://solved.ac/tae1ne)
 
 
 
