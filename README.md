@@ -32,10 +32,7 @@
 
 <br><br>
 
-### COS PRO 1급 JAVA(coding test)
-#### [모의고사1(Java)](https://github.com/TaewonBae/CosProJava1stGrade1) - COS PRO 1급 JAVA 모의고사1
-#### [모의고사2(Java)](https://github.com/TaewonBae/CosProJava1stGrade2) - COS PRO 1급 JAVA 모의고사2
-#### [모의고사3(Java)](https://github.com/TaewonBae/CosProJava1stGrade3) - COS PRO 1급 JAVA 모의고사3
+
 
 <br><br>
 ### Who Am I
@@ -97,6 +94,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### COS PRO 1급 JAVA(coding test)
+#### [모의고사1(Java)](https://github.com/TaewonBae/CosProJava1stGrade1) - COS PRO 1급 JAVA 모의고사1
+#### [모의고사2(Java)](https://github.com/TaewonBae/CosProJava1stGrade2) - COS PRO 1급 JAVA 모의고사2
+#### [모의고사3(Java)](https://github.com/TaewonBae/CosProJava1stGrade3) - COS PRO 1급 JAVA 모의고사3
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaewonBae&layout=compact" height="165">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1ne)](https://solved.ac/tae1ne)
