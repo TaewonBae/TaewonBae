@@ -27,10 +27,6 @@
 
 <br>
 
-### 프로그래머스(coding test)
-#### [Level1(Python & Java)](https://github.com/TaewonBae/BAEKJOON-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1) - 프로그래머스 Level1 코딩테스트 
-
-<br><br>
 
 
 
@@ -94,6 +90,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### 프로그래머스(coding test)
+#### [Level1(Python & Java)](https://github.com/TaewonBae/BAEKJOON-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1) - 프로그래머스 Level1 코딩테스트 
 
 ### COS PRO 1급 JAVA(coding test)
 #### [모의고사1(Java)](https://github.com/TaewonBae/CosProJava1stGrade1) - COS PRO 1급 JAVA 모의고사1
